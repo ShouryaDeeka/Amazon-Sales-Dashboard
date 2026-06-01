@@ -21,14 +21,6 @@ The dashboard allows users to:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
-
-*(Upload a screenshot of your dashboard and rename it as dashboard.png)*
-
----
-
 ## 📈 Key Business Insights
 
 ### Revenue Performance
@@ -139,6 +131,6 @@ The dataset used in this project is synthetic and was created solely for learnin
 
 ## 👨‍💻 Connect With Me
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: Shourya Deeka
 
 If you found this project interesting, feel free to ⭐ the repository.
